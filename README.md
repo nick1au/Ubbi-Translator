@@ -9,12 +9,12 @@ A C++ string translator program that converts vowels into ubbi with a number-bas
 * Developed on: Windows, Code::Blocks IDE
 
 ## Project Info
-* C++ based Parser for C++
+* A string-based manipulator which switches vowels for ubbi
+* Menu system with switch/case method
 * Created on:  
 i. Windows 7, 10  
 ii. Code::Blocks 16.01 with GNU GCC and C++11 flag   
-* A string-based manipulator which switches vowels for ubbi
-* Menu system with switch/case method
+
 
 ## Project Breakdown
 
